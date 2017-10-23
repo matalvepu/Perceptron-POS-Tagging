@@ -8,7 +8,7 @@ Date: 9/15/2017
 Description: Implementation of Discriminative training approach (Perceptron) for POS tagging 
 
 I did it as a part of homework problem in the Statistical Speech and Language Processing class 
-taught by Prof Daniel Gildea (https://www.cs.rochester.edu/~gildea/) in Spring 2017.
+taught by Prof Daniel Gildea (https://www.cs.rochester.edu/~gildea/) in Fall 2017.
 
 ===============================================================================================
 Instruction to run:
